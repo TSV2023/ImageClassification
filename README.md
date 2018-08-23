@@ -20,3 +20,8 @@ JSONs for train, validation and test are provided separately.
 1. FineTuned VGG16 Model  with ROC_AUC and Confusion Matrix.ipynb for training the model
 2. Object_Detection_Algorithm for classifying good and bad images.ipynb - For segregating non-cluttered (good images) from cluttered (bad images) images. The good images from this algorithm serve as inputs to the FineTuned VGG16 Model.
 3. Algo2_Predictor_for_new_test_images.ipynb for predicting the categories for new images
+
+
+# Credits
+This is an extension to the code provided by https://gist.github.com/fchollet/7eb39b44eb9e16e59632d25fb3119975
+
